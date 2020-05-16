@@ -21,7 +21,7 @@ sed [OPTION] {script-only-if-no-other-script} [input-file]
 ```
 acdips 
 a	新增
-c	替换
+c	替换整行
 d	删除
 i	插入
 p	重复打印	和 -n 绑定使用会打印指定内容
